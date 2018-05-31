@@ -1,0 +1,8 @@
+
+__pycache__/
+
+docutils.egg-info/
+
+ # Exclude GPLed files.
+ docs/user/emacs.txt
+ tools/editors/emacs
